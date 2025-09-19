@@ -13,7 +13,7 @@ I'm a Prompt Engineer based in Lehi, UT. I'm passionate about developing AI agen
 -   🤔 I’m looking for help with **[A specific problem or technology]**.
 -   💬 Ask me about **Python, Prompt Engineering, Mobile App Development**.
 -   📫 How to reach me: **https://www.linkedin.com/in/noah-potter-8088021b6/**.
--   ⚡ Fun fact: **Personally blessed by and Elephant**.
+-   ⚡ Fun fact: **Personally blessed by an Elephant**.
 
 ---
 
