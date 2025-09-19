@@ -1,4 +1,3 @@
-# nopot0222
 # Hi there, I'm Noah Potter 👋
 
 I'm a Prompt Engineer based in Lehi, UT. I'm passionate about developing AI agents that benefit people and business, and I love solving complex problems.
