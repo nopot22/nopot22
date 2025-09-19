@@ -50,32 +50,20 @@ Here are some of the technologies I work with:
 
 ---
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=dracula"/>
-</p>
-
----
-
 ### 🚀 My Projects
 
 Here are a few projects I'm proud of. You can find more on my repositories page!
 
 | Project Name | Description | Technologies | Link |
 |--------------|-------------|--------------|------|
-| **[Project 1 Name]** | A brief but clear description of what the project does and the problem it solves. | `Python`, `Flask`, `PostgreSQL` | [GitHub Repo](https://github.com/YOUR_USERNAME/YOUR_REPO) |
-| **[Project 2 Name]** | A brief but clear description of what the project does and the problem it solves. | `React`, `Node.js`, `MongoDB` | [Live Demo](https://your-demo-link.com) |
-| **[Project 3 Name]** | A brief but clear description of what the project does and the problem it solves. | `TensorFlow`, `Keras`, `Scikit-learn` | [Paper/Article](https://your-paper-link.com) |
+| **Mood Flow** | A mobile app to act as a tool for emotional regulation | `React Native`, `Express.js`, `Expo` | [[GitHub Repo](https://github.com/nopot22/MoodFlow)] |
+| **First Agents** | A dive and discovery of the Python Library LangGraph for creating AI Agents. | `Python`, `LangGraph`, `OpenAI API` | [GitHub Repo](https://github.com/nopot22/first_agents) |
 
 ---
 
 ### 🔗 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YOUR_LINKEDIN_USERNAME" height="30" width="40" /></a>
-<a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YOUR_TWITTER_USERNAME" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/YOUR_USER_ID/YOUR_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="YOUR_USERNAME" height="30" width="40" /></a>
-<a href="https://your-personal-website.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="your-personal-website.com" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/noah-potter-8088021b6]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YOUR_LINKEDIN_USERNAME" height="30" width="40" /></a>
+<a href="https:/noahjpotter.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="your-personal-website.com" height="30" width="40" /></a>
 </p>
