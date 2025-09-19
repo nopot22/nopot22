@@ -9,8 +9,7 @@ I'm a Prompt Engineer based in Lehi, UT. I'm passionate about developing AI agen
 
 -   🔭 I’m currently working on **LangGraph**.
 -   🌱 I’m currently learning **TensorFlow**.
--   👯 I’m looking to collaborate on **[Types of projects you want to collaborate on, e.g., open-source NLP projects]**.
--   🤔 I’m looking for help with **[A specific problem or technology]**.
+-   🤔 I’m looking for help with **Machine Learning**.
 -   💬 Ask me about **Python, Prompt Engineering, Mobile App Development**.
 -   📫 How to reach me: **https://www.linkedin.com/in/noah-potter-8088021b6/**.
 -   ⚡ Fun fact: **Personally blessed by an Elephant**.
