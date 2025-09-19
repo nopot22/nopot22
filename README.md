@@ -65,5 +65,5 @@ Here are a few projects I'm proud of. You can find more on my repositories page!
 
 <p align="left">
 <a href="[https://linkedin.com/in/noah-potter-8088021b6]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YOUR_LINKEDIN_USERNAME" height="30" width="40" /></a>
-<a href="https:/noahjpotter.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="your-personal-website.com" height="30" width="40" /></a>
+<a href="https://noahjpotter.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="your-personal-website.com" height="30" width="40" /></a>
 </p>
