@@ -1,21 +1,19 @@
 # nopot0222
-Personal Repository
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Noah Potter 👋
 
-I'm a [Your Title] based in [Your Location]. I'm passionate about [Your Main Passion, e.g., building scalable web applications, data science, open-source development], and I love solving complex problems.
+I'm a Prompt Engineer based in Lehi, UT. I'm passionate about developing AI agents that benefit people and business, and I love solving complex problems.
 
 ---
 
 ### 👨‍💻 About Me
 
--   🔭 I’m currently working on **[Name of a Project or Technology]**.
--   🌱 I’m currently learning **[A Skill or Technology you are learning]**.
+-   🔭 I’m currently working on **LangGraph**.
+-   🌱 I’m currently learning **TensorFlow**.
 -   👯 I’m looking to collaborate on **[Types of projects you want to collaborate on, e.g., open-source NLP projects]**.
 -   🤔 I’m looking for help with **[A specific problem or technology]**.
--   💬 Ask me about **[Topics you are knowledgeable in, e.g., Python, Docker, Cloud Infrastructure]**.
--   📫 How to reach me: **[Your Email or Social Media Link]**.
--   😄 Pronouns: **[He/Him, She/Her, They/Them, etc.]**.
--   ⚡ Fun fact: **[A fun fact about yourself]**.
+-   💬 Ask me about **Python, Prompt Engineering, Mobile App Development**.
+-   📫 How to reach me: **https://www.linkedin.com/in/noah-potter-8088021b6/**.
+-   ⚡ Fun fact: **Personally blessed by and Elephant**.
 
 ---
 
